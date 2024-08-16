@@ -1,0 +1,22 @@
+{
+  "name": "exts-ds-spring-boot",
+  "displayName": "APIs com Spring Boot - Extensões VS Code",
+  "description": "Crie e execute projetos Java no VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "redhat.java",
+    "vscjava.vscode-java-debug",
+    "vscjava.vscode-java-test",
+    "vscjava.vscode-maven",
+    "vscjava.vscode-java-dependency",
+    "vmware.vscode-spring-cli",
+    "vmware.vscode-boot-dev-pack",
+    "shengchen.vscode-checkstyle"
+  ]
+}

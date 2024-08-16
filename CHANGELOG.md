@@ -6,7 +6,7 @@ All notable changes to the "exts-ds-spring-boot" extension pack will be document
 
 - Versão inicial.
 - Plugins considerados
-    - ThunderClient 
+    - Thunder Client 
     - Language Support for Java(TM) by Red Hat
     - Maven for Java
     - Debugger for Java

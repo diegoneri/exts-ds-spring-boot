@@ -1,8 +1,8 @@
 {
   "name": "exts-ds-spring-boot",
-  "displayName": "APIs com Spring Boot - Extensões VS Code",
-  "description": "Crie e execute projetos Java no VSCode",
-  "version": "1.0.0",
+  "displayName": "APIs com Spring Boot - Extensões para VS Code",
+  "description": "Crie e execute projetos Java + Spring Boot no VSCode",
+  "version": "1.0.1",
   "publisher": "DiegoNeri",
   "repository":  {
     "type": "git",
